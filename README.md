@@ -15,16 +15,15 @@
 ---
 
 ## 🚀 Projects  
-- **AI Deepfake Detector Using Smart Glasses**  
-  Prototype smart glasses for real-time deepfake detection.  
+- **IoT-Based Respiratory Ventilator for Ambulances**  
+  Arduino, sensors, and GSM integrated system for emergency patient support inside ambulances.  
 
-- **GPS Accident Detection using Arduino**  
-  Arduino–GPS–GSM system reducing emergency response time by ~40%.  
+- **8-bit Ripple Carry Adder Design**  
+  RTL design in Verilog with UVM-based verification and GDS-II generation using OpenROAD-flow.  
 
-- **E-Commerce Clone (Full-Stack)**  
-  Flipkart & Amazon-inspired online shopping system.  
-
----
+- **Over-Voltage and Under-Voltage Protection System**  
+  Arduino-based protection circuit using GSM, LM2596 buck converter, LCD display, and relay.
+  
 
 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/sainusanzsanuwbc)| [Instagram](https://www.instagram.com/?next=%2F&hl=en).  
 🌍 **Location:** India  
