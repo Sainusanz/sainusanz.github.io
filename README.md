@@ -32,6 +32,7 @@
 
 - **HR Data Analytics Dashboard (Internship)**  
   Analyzed HR datasets using Python and Power BI, reducing report generation time by 60%.
+--- 
 
 ## 💼 Internships  
 
