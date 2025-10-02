@@ -26,5 +26,5 @@
 
 ---
 
-📫 **Reach me:** [LinkedIn]((https://www.linkedin.com/in/sainusanzsanuwbc)) | [Instagram](https://instagram.com/yourprofile)  
+📫 **Reach me:** [LinkedIn]([https://www.linkedin.com/in/sainusanzsanuwbc]) | [Instagram](https://instagram.com/yourprofile)  
 🌍 **Location:** India  
