@@ -52,8 +52,8 @@
   - Conducted HR data analysis using Python to identify performance trends and attrition risks.  
   - Built interactive dashboards in Power BI, reducing report generation time by 60%.  
 
-- **VLSI RTL Design & Simulation (Internship)**  
-  Designed Verilog RTL modules (8-bit ripple carry adder) with 100% correctness in testbench-driven simulation.    
+- **VLSI RTL Design & Simulation - Maven silicon**  
+  Designed Verilog RTL modules with 100% correctness in testbench-driven simulation.    
 
 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/sainusanzsanuwbc)| [Instagram](https://www.instagram.com/?next=%2F&hl=en).  
 🌍 **Location:** India  
